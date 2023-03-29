@@ -1,0 +1,6 @@
+peso = int(input(ingrese su peso en kg))
+altura = int(input('Ingrese su altura en cm')
+
+imc = peso / (altura * altura)
+
+if imc < 19:
